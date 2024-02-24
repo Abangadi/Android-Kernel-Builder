@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
+      "name": "Kalera-Kernel",
+      "repo": "https://github.com/Abangadi/Silont-Kernel.git",
+      "branch": "saponaria-r3",
       "device": "odin"
     },
     "withKernelSU": true,
