@@ -3,7 +3,7 @@
       "name": "Kalera-Kernel",
       "repo": "https://github.com/Abangadi/Silont-Kernel.git",
       "branch": "saponaria-r3",
-      "device": "rosemary_defconfig"
+      "device": "rosemary"
     },
     "withKernelSU": true,
     "toolchains": [
