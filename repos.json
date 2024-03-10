@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "Kalera-Kernel",
-      "repo": "https://github.com/Abangadi/Silont-Kernel.git",
-      "branch": "saponaria-r3",
+      "repo": "https://github.com/Abangadi/kernel_xiaomi_rosemary.git",
+      "branch": "udc",
       "device": "rosemary"
     },
     "withKernelSU": true,
