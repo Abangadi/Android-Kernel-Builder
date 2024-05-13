@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "Kalera-Kernel",
-      "repo": "https://github.com/Abangadi/kernel_xiaomi_rosemary.git",
-      "branch": "udc",
+      "repo": "https://github.com/Abangadi/MeowX.git",
+      "branch": "13.0",
       "device": "rosemary"
     },
     "withKernelSU": true,
